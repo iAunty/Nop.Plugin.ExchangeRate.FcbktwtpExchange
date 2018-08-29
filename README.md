@@ -1,0 +1,2 @@
+# Nop.Plugin.ExchangeRate.FcbktwtpExchange
+nopCommerce第一銀行匯率查詢Plugin
