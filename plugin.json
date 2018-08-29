@@ -1,7 +1,7 @@
 ﻿{
   "Group": "Exchange rate providers",
-  "FriendlyName": "Fcbktwtp exchange rate provider",
-  "SystemName": "CurrencyExchange.Fcbktwtp",
+  "FriendlyName": "FCBKTWTP exchange rate provider",
+  "SystemName": "CurrencyExchange.FCBKTWTP",
   "Version": "1.22",
   "SupportedVersions": [ "4.10" ],
   "Author": "iAunty",
