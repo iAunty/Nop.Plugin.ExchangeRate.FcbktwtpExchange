@@ -1,11 +1,11 @@
 ﻿{
   "Group": "Exchange rate providers",
-  "FriendlyName": "ECB exchange rate provider",
-  "SystemName": "CurrencyExchange.ECB",
+  "FriendlyName": "Fcbktwtp exchange rate provider",
+  "SystemName": "CurrencyExchange.Fcbktwtp",
   "Version": "1.22",
   "SupportedVersions": [ "4.10" ],
-  "Author": "nopCommerce team",
+  "Author": "iAunty",
   "DisplayOrder": 1,
-  "FileName": "Nop.Plugin.ExchangeRate.EcbExchange.dll",
-  "Description": "This plugin allows getting exchange rates from ECB (European Central Bank)"
+  "FileName": "Nop.Plugin.ExchangeRate.FcbktwtpExchange.dll",
+  "Description": "This plugin allows getting exchange rates from FCBKTWTP (First Commercial Bank)"
 }

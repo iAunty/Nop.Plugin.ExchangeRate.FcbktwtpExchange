@@ -12,7 +12,7 @@ using Nop.Services.Logging;
 
 namespace Nop.Plugin.ExchangeRate.EcbExchange
 {
-    public class EcbExchangeRateProvider : BasePlugin, IExchangeRateProvider
+    public class FcbktwtpExchangeRateProvider : BasePlugin, IExchangeRateProvider
     {
         #region Fields
 
@@ -23,7 +23,7 @@ namespace Nop.Plugin.ExchangeRate.EcbExchange
 
         #region Ctor
 
-        public EcbExchangeRateProvider(ILocalizationService localizationService,
+        public FcbktwtpExchangeRateProvider(ILocalizationService localizationService,
             ILogger logger)
         {
             this._localizationService = localizationService;

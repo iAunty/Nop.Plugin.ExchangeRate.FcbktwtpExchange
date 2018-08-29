@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <Copyright>Copyright © Nop Solutions, Ltd</Copyright> 
-    <Company>Nop Solutions, Ltd</Company> 
-    <Authors>Nop Solutions, Ltd</Authors>
+    <Copyright>Copyright © iAunty, Ltd</Copyright> 
+    <Company>iAunty, Ltd</Company> 
+    <Authors>iAunty, Ltd</Authors>
     <PackageLicenseUrl></PackageLicenseUrl> 
     <PackageProjectUrl>http://www.nopcommerce.com/</PackageProjectUrl> 
-    <RepositoryUrl>https://github.com/nopSolutions/nopCommerce</RepositoryUrl> 
+    <RepositoryUrl>https://github.com/iAunty/Nop.Plugin.ExchangeRate.FcbktwtpExchange</RepositoryUrl> 
     <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
   
@@ -17,12 +17,12 @@
   </ItemGroup>
   
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <OutputPath>..\..\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange</OutputPath>
+    <OutputPath>..\..\Presentation\Nop.Web\Plugins\ExchangeRate.FcbktwtpExchange</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutputPath>..\..\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange</OutputPath>
+    <OutputPath>..\..\Presentation\Nop.Web\Plugins\ExchangeRate.FcbktwtpExchange</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
   </PropertyGroup>
 
