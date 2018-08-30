@@ -36,6 +36,7 @@ namespace Nop.Plugin.ExchangeRate.EcbExchange
 
         /// <summary>
         /// Gets currency live rates
+        /// Rate Url is : https://ibank.firstbank.com.tw/NetBank/7/0201.html?sh=none
         /// </summary>
         /// <param name="exchangeRateCurrencyCode">Exchange rate currency code</param>
         /// <returns>Exchange rates</returns>
